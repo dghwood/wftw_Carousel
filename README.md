@@ -1,6 +1,7 @@
 wftw_Carousel
 =============
 
+www.whatfilmtowatch.co.uk
 JQuery carousel plugin
 
 Easy to use JQuery plugin carousel, creates a 3D animation carousel similar to spotify and iphone album carousel 
